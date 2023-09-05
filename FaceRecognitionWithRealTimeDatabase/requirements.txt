@@ -1,0 +1,5 @@
+cmake
+dlib
+face_recognition
+cvzone
+opencv==4.5.4.60
